@@ -196,10 +196,8 @@ MIT License - Free for academic and personal use. Let me know if you build somet
 
 **Built with ☕ and 🧠 by Malik Kamran Ali**
 
-[![Star](https://img.shields.io/github/stars/yourusername/battle-city-ai?style=social)](https://github.com/yourusername/battle-city-ai)
+[![Star](https://img.shields.io/github/stars/kamrana674/Battle-City-1990-Tank-battle?style=social)](https://github.com//kamrana674/Battle-City-1990-Tank-battle)
 [![Follow](https://img.shields.io/github/followers/kamran674?style=social)](https://github.com/kamran674)
-
-</div>
 
 ---
 
