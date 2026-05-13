@@ -1,4 +1,4 @@
-# Battle-City-1990--Tank-battle
+# Battle-City-1990-Tank-battle
 
 Here's a professional, visually attractive GitHub repository description for your Battle City AI project:
 
